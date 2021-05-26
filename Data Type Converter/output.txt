@@ -1,0 +1,6 @@
+Please enter byte value 1,2,3 or 4.
+00 04
+FF F7
+00 06
+00 00
+Please enter byte value 1,2,3 or 4.
