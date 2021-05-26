@@ -5,6 +5,11 @@ Python bütün ödevler - all python assignments
 # Data Analysis: 
 - Pandas, numpy ve matplotlib'le yapılmış çeşitli veri analizleri. (Ülkelere göre korona virüs verileri, çalışan verileri..)
 
+# Data Type Converter:
+- .txt dosyasından alınan inputları ( signed, unsigned ve float integer) binary sayılarına çeviren ve aşağıdaki işlemleri uygulayan program.
+- Rounding (Yuvarlama).
+- Denormalized sayıların ayarlanması.
+
 # Data,NLP,Beautiful Soup, Machine Learning and Database:
 - Pandas, numpy ve matplotlib'le BIST 100 veri analizi.
 - Natural Language Processing ile text içindeki detaylı işlemler.
@@ -28,6 +33,11 @@ Not: Çoğu kod dosyasının ilk satırlarında problemin ne olduğu, neyin çö
 
 # Data Analysis: 
 - Data analysis with pandas, numpy and matplotlib. (Corona virus datas according to countries, employer datas..)
+
+# Data Type Converter:
+- The program that converts inputs which are taken from .txt file (signed, unsigned and float number) into binary number by using some algorithms and processes below.
+- Rounding.
+- Denormalized number adjustment.
 
 # Data,NLP,Beautiful Soup, Machine Learning and Database:
 - Data analysis of BIST 100 with pandas, numpy and matplotlib.
